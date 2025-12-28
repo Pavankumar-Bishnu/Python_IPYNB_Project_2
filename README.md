@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction 
+# Flight Price Prediction 
 
 A comprehensive data analytics and machine learning project that predicts flight prices based on various parameters including airline, source, destination, stops, and timing information. This project combines Python for data analysis and modeling with SQL for data extraction and transformation.
 
@@ -43,7 +43,7 @@ A comprehensive data analytics and machine learning project that predicts flight
 - Stop count impact on pricing
 - Temporal trends and seasonal patterns
 - 
-> **SQL Queries File**         : <a href=""> Click to open </a>
+> **SQL Queries File**         : <a href="https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_2/blob/main/Flight%20Data.sql"> Click to open </a>
 
 
 ## Key Insights
